@@ -1,5 +1,10 @@
 ## Hi there 👋
-
+*名前
+    *西谷礎潤
+*好きなもの
+    *ゲーム
+*勉強したい技術
+    *モバイルアプリ、AR,AI,楽しいもの
 <!--
 **NsoulN/NsoulN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
